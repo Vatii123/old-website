@@ -1,2 +1,4 @@
 # Vatii123.github.io
-cool website
+autty's really cool website
+
+powered by typed.js and me
