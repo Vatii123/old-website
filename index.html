@@ -1,54 +1,86 @@
 <!DOCTYPE html>
 <title>
-    really cool website
+  autty's really cool website
 </title>
 <style>
-    body {
-        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbJJjWDTnxiEFpTKL1RAPBriTuvzyV5u_IOQ&usqp=CAU");
-            background-size: 75px 75px;
-            background-repeat: repeat;
-            text-align: center;
-    }
+  body {
+    background-color:black
+  }
+  h1 {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: black;
+        display: flex;
+        width: 100%;
+        text-align: center;
+        justify-content: center;
+        margin: 0;
+        padding: 0;
+        font-weight: bold;
+        font-size: 60px;
+        text-shadow: 0 0 10px white;
+        font-family: lato;
+        letter-spacing: 1px;
+        -webkit-text-fill-color: whitesmoke;
+        text-align: center;
+  }
+  h2 {
+        position: absolute;
+        top: 60%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: black;
+        display: flex;
+        width: 100%;
+        text-align: center;
+        justify-content: center;
+        margin: 0;
+        padding: 0;
+        font-weight: bold;
+        font-size: 30px;
+        text-shadow: 0 0 10px white;
+        font-family: lato;
+        letter-spacing: 1px;
+        -webkit-text-fill-color: whitesmoke;
+  }
+
+  .bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    left
+  }
+
 </style>
-<head>
-    <font size="10">
-        <p style="font-family: sans-serif;">
-            <span style="color:white;">
-                coded by autty
-            </span>
-        </p>
-    </font>
-</head>
-<head>
-<button>
-    <font size="10">
-        <p style="font-family: Verdana, Geneva, Tahoma, sans-serif">
-            <span style="color:blue;">
-                <a href="https://github.com/Vatii123/Vatii123.github.io">source code if you want it</a>
-            </span>
-        </p>
-    </font>
-</button>
-</head>
-<head>
-    <center>
-        <font size="20">
-            <p style="font-family: Courier New, Courier">
-                <span style="color:white;">
-                    autty's really cool website
-                </span>
-     
-   </font>
-    </center>
-<center>
-  <button>
-      <font size="10">
-          <p style="font-family: Verdana, Geneva, Tahoma, sans-serif">
-              <span style="color:blue;">
-                  <a "location.href='https://vatii123.github.io/nisayanmode.html'">NEW! nisayan mode</a>
-              </span>
-          </p>
-      </font>
-  </button>
-</center>
-</head>
+
+<body>
+  <div id="bg"></div>
+  <script type="text/javascript" src="particles.min.js"></script>
+  <script type="text/javascript" src="custom.js"></script>
+  </script>
+</body>
+
+<a>https://github.com/Vatii123/Vatii123.github.io
+  <h2>source code</h2>
+</a>
+
+<body>
+  <h1 class="type1"></h1>
+
+  <script type="text/javascript" src="typed.js"></script>
+  <script type"text/javascript">
+      var typed = new Typed(".type1", {
+          strings: [
+              "autty's really cool website",
+          ],
+          smartBackspace: true,
+          typeSpeed: 50,
+          backSpeed: 50,
+          loop: true
+      });
+  </script>
+</body>
