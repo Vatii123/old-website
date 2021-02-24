@@ -7,6 +7,7 @@ powered by
 - VSCode (used for writing code)
 - Brackets (used for writing code)
 - HTML (code language)
+- JavaScript (powering particle.js and typed.js)
 - typed.js (typing animation library)
 - particles.js (particles library)
 - Vatii123 (me) for writing codes!
