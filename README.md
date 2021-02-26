@@ -1,7 +1,8 @@
 # ⚫ Vatii123.github.io
 autty's really cool website
 
-Originally created for Vatii123 to practice his HTML coding skill.
+An open-source project, originally created for Vatii123 to practice his HTML coding skill.
+Feel free to fork this.
 
 Powered by
 
