@@ -1,13 +1,15 @@
-# Vatii123.github.io
+# ⚫ Vatii123.github.io
 autty's really cool website
 
-powered by
+Originally created for Vatii123 to practice his HTML coding skill.
 
-- Atom (used for writing code)
-- VSCode (used for writing code)
-- Brackets (used for writing code)
-- HTML (code language)
-- JavaScript (powering particle.js and typed.js)
-- typed.js (typing animation library)
-- particles.js (particles library)
-- Vatii123 (me) for writing codes!
+Powered by
+
+🔹 HTML - Coding language
+🔹 JavaScript - Coding language used for powering the library
+🔹 Atom - Coding program
+🔹 Visual Studio Code - Coding program
+🔹 Brackets - Coding program
+🔹 Typed.js - Library for typing animation
+🔹 particles.js - Library for particles
+🔹 Vatii123 (me) - Writing all the codes
